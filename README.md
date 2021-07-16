@@ -1,5 +1,5 @@
 # Discord-Encourage-Bot
-A Discord Bot that keeps you motivated by giving you motivational Quotes and cheering up your Mood everday.
+A Discord Bot that keeps you motivated by giving you motivational Quotes and cheering up your Mood everyday.
 
 This is a Bot that Keeps you motivated by giving you the quotes spoken by famous personalities and by cheering up your mood whenever you feel sad.
 
